@@ -4,7 +4,7 @@
 
 ![reversal](https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png)
 
-![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=이거되나%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
 <!--
 
 **demongod2020/demongod2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
